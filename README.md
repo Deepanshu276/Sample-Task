@@ -1,3 +1,10 @@
+# Bivariate Normal Distrubution
+I produced Bivariate normal with marginal pdf's using jax and matplotlib
+## Files
+The Documentation_bivariateNormalDistribution will walk you through what is Bivariate Normal distribution and what is Probability Density Function(or density function or PDF) of a Bivariate Gaussian distribution.
+The binomialMultivariate file contains the visualization which is easy to understand
+All the references which i used in animating Bivariate Normal Distribution is mentioned in the documentation
+
 # MultiLayer Perceptron
 This is a two hidden layers neural network classifier build from scratch using pytorch and jax on google colab.
 ## Dataset and files
